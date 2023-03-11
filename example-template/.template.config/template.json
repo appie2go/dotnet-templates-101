@@ -1,5 +1,5 @@
 {
-    "": "http://json.schemastore.org/template",
+    "$schema": "http://json.schemastore.org/template",
     "author": "Your Name",
     "classifications": [ "web api", "asp.net core", "C#" ],    
     "identity": "TestController",
