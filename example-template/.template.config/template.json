@@ -4,5 +4,14 @@
     "classifications": [ "web api", "asp.net core", "C#" ],    
     "identity": "TestController",
     "name": "Example Controller Template",
-    "shortName": "controller"
+    "shortName": "controller",
+    "symbols": {
+        "controllerName": {
+            "type": "parameter",
+            "datatype": "string",
+            "replaces": "Test",
+            "fileRename": "Test",
+            "isRequired": "true"
+        }
+    }
 }
